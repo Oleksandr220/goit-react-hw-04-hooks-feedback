@@ -1,0 +1,19 @@
+.button__container {
+  padding-left: 10px;
+}
+
+.feedback__button {
+  cursor: pointer;
+  padding: 5px 15px;
+  font-size: 26px;
+  margin-right: 15px;
+  border: 1px solid black;
+  border-radius: 5px;
+  background-color: silver;
+}
+
+.feedback__button:hover {
+  color: rgb(206, 206, 206);
+  background-color: rgb(170, 110, 110);
+  border: 1px solid whitesmoke;
+}
